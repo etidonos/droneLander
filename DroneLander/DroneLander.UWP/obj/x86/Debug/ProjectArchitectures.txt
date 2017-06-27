@@ -1,0 +1,2 @@
+c:\users\etido\documents\visual studio 2017\Projects\DroneLander\DroneLander\DroneLander.UWP\DroneLander.UWP.csproj;x86
+c:\users\etido\documents\visual studio 2017\Projects\DroneLander\DroneLander\DroneLander\DroneLander.csproj;neutral
