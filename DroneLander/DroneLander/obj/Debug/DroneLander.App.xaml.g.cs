@@ -11,7 +11,7 @@
 namespace DroneLander {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\etido\\documents\\visual studio 2017\\Projects\\DroneLander\\DroneLander\\Dron" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\etido\\documents\\visual studio 2017\\Projects\\DroneLander\\DroneLander\\Dron" +
         "eLander\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         

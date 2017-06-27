@@ -1,6 +1,12 @@
 C:\Users\etido\documents\visual studio 2017\Projects\DroneLander\DroneLander\DroneLander.Android\obj\Debug\android\assets\DroneLander.Android.dll
 C:\Users\etido\documents\visual studio 2017\Projects\DroneLander\DroneLander\DroneLander.Android\obj\Debug\android\assets\DroneLander.dll
 C:\Users\etido\documents\visual studio 2017\Projects\DroneLander\DroneLander\DroneLander.Android\obj\Debug\android\assets\FormsViewGroup.dll
+C:\Users\etido\documents\visual studio 2017\Projects\DroneLander\DroneLander\DroneLander.Android\obj\Debug\android\assets\Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll
+C:\Users\etido\documents\visual studio 2017\Projects\DroneLander\DroneLander\DroneLander.Android\obj\Debug\android\assets\Microsoft.Azure.Mobile.Analytics.dll
+C:\Users\etido\documents\visual studio 2017\Projects\DroneLander\DroneLander\DroneLander.Android\obj\Debug\android\assets\Microsoft.Azure.Mobile.Android.Bindings.dll
+C:\Users\etido\documents\visual studio 2017\Projects\DroneLander\DroneLander\DroneLander.Android\obj\Debug\android\assets\Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll
+C:\Users\etido\documents\visual studio 2017\Projects\DroneLander\DroneLander\DroneLander.Android\obj\Debug\android\assets\Microsoft.Azure.Mobile.Crashes.dll
+C:\Users\etido\documents\visual studio 2017\Projects\DroneLander\DroneLander\DroneLander.Android\obj\Debug\android\assets\Microsoft.Azure.Mobile.dll
 C:\Users\etido\documents\visual studio 2017\Projects\DroneLander\DroneLander\DroneLander.Android\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 C:\Users\etido\documents\visual studio 2017\Projects\DroneLander\DroneLander\DroneLander.Android\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
 C:\Users\etido\documents\visual studio 2017\Projects\DroneLander\DroneLander\DroneLander.Android\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
