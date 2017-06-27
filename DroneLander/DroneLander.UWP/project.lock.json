@@ -22272,16 +22272,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "c:\\users\\etido\\documents\\visual studio 2017\\Projects\\DroneLander\\DroneLander\\DroneLander.UWP\\DroneLander.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\etido\\documents\\visual studio 2017\\Projects\\DroneLander\\DroneLander\\DroneLander.UWP\\DroneLander.UWP.csproj",
       "projectName": "DroneLander.UWP",
-      "projectPath": "c:\\users\\etido\\documents\\visual studio 2017\\Projects\\DroneLander\\DroneLander\\DroneLander.UWP\\DroneLander.UWP.csproj",
-      "projectJsonPath": "c:\\users\\etido\\documents\\visual studio 2017\\Projects\\DroneLander\\DroneLander\\DroneLander.UWP\\project.json",
+      "projectPath": "C:\\Users\\etido\\documents\\visual studio 2017\\Projects\\DroneLander\\DroneLander\\DroneLander.UWP\\DroneLander.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\etido\\documents\\visual studio 2017\\Projects\\DroneLander\\DroneLander\\DroneLander.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "c:\\users\\etido\\documents\\visual studio 2017\\Projects\\DroneLander\\DroneLander\\DroneLander\\DroneLander.csproj": {
-              "projectPath": "c:\\users\\etido\\documents\\visual studio 2017\\Projects\\DroneLander\\DroneLander\\DroneLander\\DroneLander.csproj"
+            "C:\\Users\\etido\\documents\\visual studio 2017\\Projects\\DroneLander\\DroneLander\\DroneLander\\DroneLander.csproj": {
+              "projectPath": "C:\\Users\\etido\\documents\\visual studio 2017\\Projects\\DroneLander\\DroneLander\\DroneLander\\DroneLander.csproj"
             }
           }
         }
